@@ -1,6 +1,6 @@
 import React from 'react';
 import "./global.css"
-import { useFetchTask, Response } from './components/Tasks/hooks/useFetchTask';
+import { useFetchTask, Response } from './components/Task/hooks/useFetchTask';
 
 function App() {
 
